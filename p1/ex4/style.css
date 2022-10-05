@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    width: 350px;
+    height: 600px;
+    border: solid 2px black;
+    margin: auto;
+}
+
+.screen{
+    width: 280px;
+    height: 50px;
+    border: solid 2px black;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.keyboard{
+    padding: 17px;
+}
+
+.button{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+}
