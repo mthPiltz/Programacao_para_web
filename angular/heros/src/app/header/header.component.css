@@ -3,9 +3,9 @@ header{
 }
 
 .container{
-    padding: 10px;
-    height: 55px;
-
+    padding: 5px;
+    height: 75px;
+    
     display: flex;
     justify-content: space-between;
 }
