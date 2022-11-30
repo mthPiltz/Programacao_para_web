@@ -1,0 +1,21 @@
+button{
+    height: 70px;
+    width: 70px;
+    margin: 25px 5px 5px 5px;
+}
+
+.calculadora{
+    height: 450px;
+    width: 350px;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+.visor{
+    translate: -50% 0;
+    position: relative;
+    left: 50%;  
+    height: 50px;
+    width: 300px;
+    border: solid 1px black;
+}
