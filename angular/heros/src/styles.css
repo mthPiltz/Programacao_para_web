@@ -2,3 +2,14 @@ body{
     margin:0px;
     padding: 0px;
 }
+
+.border{
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.border:focus{
+    border: none;
+    outline: none;
+}
